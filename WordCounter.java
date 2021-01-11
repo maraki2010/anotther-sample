@@ -20,3 +20,5 @@ public class WordCounter
       JOptionPane.showMessageDialog(null, output);
    }
 }
+
+//I got the idea for this bullshit
